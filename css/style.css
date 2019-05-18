@@ -14,13 +14,13 @@ body {
 	width: 960px;
 	margin: 0 auto;
 	background: #fff;
-	padding: 20px 45px 20px;
+	padding: 0 45px 20px;
 }
 
 /* Write all remaining styles here */
 #title{
 	font-size: 80px;
-	margin: 0px 0px;
+	margin: 20px 0px;
 }
 h1{
 	color: rgb(153, 173, 166);
