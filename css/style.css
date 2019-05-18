@@ -21,6 +21,8 @@ body {
 h1 a {
     color: rgb(152,173,166);
     text-decoration: none;
+		font-size: 80px;
+		margin: 20px 0px;
 }
 h1{
 	color: rgb(153, 173, 166);
