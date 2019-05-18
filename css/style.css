@@ -18,9 +18,9 @@ body {
 }
 
 /* Write all remaining styles here */
-#title{
-	font-size: 80px;
-	margin: 20px 0px;
+h1 a {
+    color: rgb(152,173,166);
+    text-decoration: none;
 }
 h1{
 	color: rgb(153, 173, 166);
