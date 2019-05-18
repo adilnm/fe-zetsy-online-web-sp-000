@@ -30,9 +30,9 @@ img {
 	border: 5px solid rgb(153, 173, 166);
 }
 
-/*p a {
+p a {
 	color: rgb(32, 132, 185);
-}*/
+}
 p a:hover {
 	text-decoration: underline;
 }
