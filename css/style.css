@@ -20,5 +20,7 @@ body {
 /* Write all remaining styles here */
 #title{
 	font-size: 80px;
+}
+h1{
 	color: rgb(153, 173, 166);
 }
